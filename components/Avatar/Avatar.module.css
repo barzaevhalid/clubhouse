@@ -1,0 +1,6 @@
+.avatar {
+ background: no-repeat center center;
+ margin: 0 auto;
+ background-size: 100%;
+ borderRadius: "100%";
+}

@@ -1,0 +1,12 @@
+.loading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    text-align: center;
+}
+.text {
+    margin-top: 20px;
+    font-weight: 700;
+    font-size: 22px;
+}

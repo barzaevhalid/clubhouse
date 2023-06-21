@@ -1,0 +1,19 @@
+.inputsWrapper {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+}
+.input {
+    width: 65px;
+    height: 65px;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 20px;
+    border: 1px solid gray;
+    text-align: center;
+}
+.text {
+    text-align: center;
+    color: lightgray;
+    margin-top: 20px;
+}

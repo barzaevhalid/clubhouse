@@ -1,0 +1,32 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 25px;
+}
+.logo {
+    display: flex;
+    align-items: center;
+}
+.logoText {
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 30px;
+    margin-left: 10px;
+    padding-top: 5px;
+}
+.headerProfile {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+.headerProfileName {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+}
+.line {
+    background: #9a9998;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+    height: 1px;
+}
+

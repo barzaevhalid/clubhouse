@@ -1,0 +1,14 @@
+.text {
+    text-align: center;
+    color: lightgray;
+    margin-top: 20px;
+}
+.inputNumber {
+    font-weight: 700;
+    font-size: 22px;
+    border-radius: 10px;
+    border: 1px solid gray;
+    line-height: 50px;
+    padding: 0 20px;
+    width:  250px;
+}

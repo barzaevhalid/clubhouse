@@ -1,0 +1,24 @@
+.innerButton {
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    background: #2f63c0;
+    border: none;
+    border-radius: 20px;
+    width: 250px;
+    cursor: pointer;
+    display: block;
+    margin: 40px auto 0;
+    line-height: 35px;
+    font-size: 18px;
+    font-weight: 700;
+
+}
+.innerButton[disabled] {
+    background: #D6D6D6;
+    cursor: default;
+}
+.blue {
+    color: red !important;
+
+}
