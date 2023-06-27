@@ -1,0 +1,55 @@
+
+.conversationRoom {
+    background: #FFFFFF;
+    border: 1px solid #EDEDED;
+    box-shadow: 0px 2px 1px rgba(0, 0, 0, 0.05);
+    border-radius: 20px;
+    padding: 20px 30px;
+    display: flex;
+    justify-content: space-between;
+    max-width:330px;
+}
+
+.conversationRoomTitle {
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 30px;
+}
+.avatars {
+    width: 60px;
+}
+
+.secondAvatar {
+    position: relative;
+    top: -16px;
+    left: 16px;
+}
+.list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.listItem {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+}
+.conversationRoomPeople {
+    display: flex;
+    gap: 30px;
+}
+
+.count {
+    display: flex;
+    gap: 15px;
+    margin-top: 15px;
+}
+.say {
+    width: 15px;
+    height: 15px;
+}
+.lastAvatar {
+    position: relative;
+    right: -10px;
+    top: -10px;
+}

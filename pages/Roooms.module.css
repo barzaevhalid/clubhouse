@@ -1,0 +1,46 @@
+.roomsHeader {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.roomsTitleWrapper {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+.explore {
+    width: 140px;
+    border: none;
+    padding: 10px 25px;
+    background: #D2CDC0;
+    border-radius: 45px;
+    color: #fff;
+    line-height: 22px;
+    cursor: pointer;
+}
+.createRoomBtn {
+    color: #fff;
+    width: 200px;
+    padding: 10px 25px;
+    background: #20BD5F;
+    border-radius: 45px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    line-height: 22px;
+}
+.roomsTitle {
+    font-weight: 700;
+    font-size: 36px;
+    padding-bottom: 3px;
+}
+.cloud {
+    position: relative;
+    left: -10px;
+    top: 5px;
+}
+.conversationCardsWrapper {
+    display: flex;
+    gap: 35px;
+    flex-wrap: wrap;
+}

@@ -22,7 +22,7 @@ const Avatar: React.FC<IProp> = ({
         backgroundImage: `url(${src})`,
         borderRadius: "100%",
       }}
-      className={`${s.avatar} ${className}`}
+      className={`${className} ${s.avatar} `}
     />
   );
 };

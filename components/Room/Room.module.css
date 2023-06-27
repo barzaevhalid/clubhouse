@@ -1,0 +1,61 @@
+.viewRoom {
+    width: 100%;
+    background: #fff;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+}
+.container {
+    width: 920px;
+    margin: 0 auto;
+}
+.viewRoomHeader {
+    padding-top: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.roomHeader {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.roomButtons {
+    display: flex;
+    align-items: center;
+    gap: 15px ;
+}
+.handRoom {
+    border-radius: 100%;
+    width: 50px;
+    height: 50px;
+}
+.fingers {
+    position: relative;
+    border-radius: 45px;
+    width: 200px;
+    padding: 15px 20px 15px 30px;
+    font-size: 18px;
+    color: #FF656D;
+    font-weight: 700;
+}
+.fingersImg {
+    position: absolute;
+    top: 12px;
+    left: 28px;
+    width: 22px;
+
+}
+.btn {
+    background: #F2F2F2;
+    border: none;
+    cursor: pointer;
+}
+.speakers {
+    display: flex;
+    gap: 50px;
+}
+.otherPeople {
+    display: flex;
+    gap: 35px;
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "_id": "649a77d26b13fac561000aac",
+    "avatars": [
+      "https://static.vecteezy.com/system/resources/previews/014/194/198/original/avatar-icon-human-a-person-s-badge-social-media-profile-symbol-the-symbol-of-a-person-vector.jpg",
+      "https://cdn4.iconfinder.com/data/icons/avatars-21/512/avatar-circle-human-male-3-512.png"
+    ],
+    "guestsCount": 297,
+    "speakersCount": 3,
+    "title": "Non incididunt commodo aliquip pariatur fugiat consectetur irure ea.",
+    "guests": [
+      "Телепузик",
+      "Vasya pupkin",
+      "Мафиози",
+      "Martin"
+    ]
+  },
+  {
+    "_id": "649a77d2d86e561325cee970",
+    "avatars": [
+      "https://static.vecteezy.com/system/resources/previews/014/194/198/original/avatar-icon-human-a-person-s-badge-social-media-profile-symbol-the-symbol-of-a-person-vector.jpg",
+      "https://cdn4.iconfinder.com/data/icons/avatars-21/512/avatar-circle-human-male-3-512.png"
+    ],
+    "guestsCount": 38,
+    "speakersCount": 9,
+    "title": "Eiusmod sit id in amet.",
+    "guests": [
+      "Vasya pupkin",
+      "Martin",
+      "Vasya pupkin",
+      "Gena bukin"
+    ]
+  },
+  {
+    "_id": "649a77d264994219b412dcf1",
+    "avatars": [
+      "https://static.vecteezy.com/system/resources/previews/014/194/198/original/avatar-icon-human-a-person-s-badge-social-media-profile-symbol-the-symbol-of-a-person-vector.jpg",
+      "https://cdn4.iconfinder.com/data/icons/avatars-21/512/avatar-circle-human-male-3-512.png"
+    ],
+    "guestsCount": 255,
+    "speakersCount": 12,
+    "title": "Non deserunt id deserunt et exercitation id ipsum laboris.",
+    "guests": [
+      "Amon ramo",
+      "Мафиози",
+      "Vasya pupkin",
+      "Мафиози"
+    ]
+  },
+  {
+    "_id": "649a77d2f07fed299f2d1fd7",
+    "avatars": [
+      "https://static.vecteezy.com/system/resources/previews/014/194/198/original/avatar-icon-human-a-person-s-badge-social-media-profile-symbol-the-symbol-of-a-person-vector.jpg",
+      "https://cdn4.iconfinder.com/data/icons/avatars-21/512/avatar-circle-human-male-3-512.png"
+    ],
+    "guestsCount": 161,
+    "speakersCount": 10,
+    "title": "Nulla duis in consequat incididunt.",
+    "guests": [
+      "Jojo",
+      "Телепузик",
+      "Мафиози",
+      "Jojo"
+    ]
+  },
+  {
+    "_id": "649a77d25323ff3fc5b1c982",
+    "avatars": [
+      "https://static.vecteezy.com/system/resources/previews/014/194/198/original/avatar-icon-human-a-person-s-badge-social-media-profile-symbol-the-symbol-of-a-person-vector.jpg",
+      "https://cdn4.iconfinder.com/data/icons/avatars-21/512/avatar-circle-human-male-3-512.png"
+    ],
+    "guestsCount": 64,
+    "speakersCount": 4,
+    "title": "Adipisicing id fugiat aute sit pariatur velit.",
+    "guests": [
+      "Amon ramo",
+      "Martin",
+      "Amon ramo",
+      "Мафиози"
+    ]
+  }
+]
